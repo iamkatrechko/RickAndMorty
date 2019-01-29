@@ -1,3 +1,9 @@
-<resources>
-    <string name="app_name">RickAndMorty</string>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+    <string name="app_name">Rick And Morty</string>
+
+    <string name="title.episodes_list">Список эпизодов</string>
+
+    <string name="error.load.characters">Ошибка получения персонажей</string>
+    <string name="error.load.character">Ошибка получения персонажа</string>
+    <string name="error.load.episodes">Ошибка получения списка эпизодов</string>
 </resources>
